@@ -1,0 +1,21 @@
+# UIDE Forense AI - Dependencias del Proyecto
+# Python 3.8+
+
+# Framework de Interfaz
+gradio>=4.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+
+# Visión por Computadora
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Utilidades
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Opcional (para descargas)
+requests>=2.31.0
