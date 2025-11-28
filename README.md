@@ -330,8 +330,7 @@ Este proyecto fue desarrollado por estudiantes de la **Universidad Internacional
 | Miembro | Rol |
 |---------|-----|
 | **Anthony Perez** | Investigador Principal & ML Engineer |
-| **Bruno Ortega** | Desarrollador de Modelos |
-| **Manuel Pacheco** | Ingeniero de Software & UI/UX |
+
 
 ### Institución
 
@@ -389,7 +388,7 @@ Este es un proyecto académico. Para sugerencias o mejoras:
 
 Para consultas académicas o colaboraciones:
 
-- **Email institucional**: [Contacto UIDE]
+- **Email institucional**: [anperezcue@uide.edu.ec]
 - **GitHub**: [T0NY24/ProyectoForenseUIDE](https://github.com/T0NY24/ProyectoForenseUIDE)
 
 ---
@@ -401,3 +400,4 @@ Para consultas académicas o colaboraciones:
 © 2025 Universidad Internacional del Ecuador - Todos los derechos reservados
 
 </div>
+
